@@ -1,2 +1,2 @@
-# Geovane
+# Geovane Barbosa
 Geomapas
